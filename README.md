@@ -78,9 +78,9 @@ Ao final de cada execução, um relatório HTML detalhado será gerado automatic
 - <img width="454" alt="image" src="https://github.com/user-attachments/assets/9b9e91dc-dbe2-416b-a69c-c100450c0753" />
 
 ### Ver no navegador (GitHub Pages)
-- Smoke: https://rfslusarz.github.io/teste-performance-k6/reports/exemplo-smoke-test.html
-- Load: https://rfslusarz.github.io/teste-performance-k6/reports/exemplo-load-test.html
-- Stress: https://rfslusarz.github.io/teste-performance-k6/reports/exemplo-stress-test.html
+- Smoke: https://rfslusarz.github.io/teste-performance-k6/exemplo-smoke-test.html
+- Load: https://rfslusarz.github.io/teste-performance-k6/exemplo-load-test.html
+- Stress: https://rfslusarz.github.io/teste-performance-k6/exemplo-stress-test.html
 
 
 Exemplo de saída: `reports/load-test_2023-10-27-15-30-00.html`

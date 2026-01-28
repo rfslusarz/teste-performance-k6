@@ -4,6 +4,7 @@ node_modules/
 
 reports/*
 !reports/.gitkeep
+!reports/.nojekyll
 !reports/exemplo-load-test.html
 !reports/exemplo-smoke-test.html
 !reports/exemplo-stress-test.html

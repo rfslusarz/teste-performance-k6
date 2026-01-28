@@ -60,7 +60,7 @@ k6 run src/tests/load-test.js
 k6 run src/tests/stress-test.js
 ```
 
-## Relatórios HTML 📊
+## Relatórios HTML 
 
 Ao final de cada execução, um relatório HTML detalhado será gerado automaticamente na pasta `reports/`.
 

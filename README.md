@@ -5,6 +5,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI-blue?style=flat-square&logo=githubactions)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Reports](https://img.shields.io/badge/Reports-HTML-orange?style=flat-square)
+![License](https://img.shields.io/github/license/rfslusarz/teste-performance-k6?style=flat-square)
+[![CI](https://github.com/rfslusarz/teste-performance-k6/actions/workflows/k6.yml/badge.svg)](https://github.com/rfslusarz/teste-performance-k6/actions/workflows/k6.yml)
 
 Este projeto demonstra uma suíte completa de testes de performance automatizados utilizando [k6](https://k6.io/). O objetivo é servir como portfólio profissional e referência técnica para implementação de testes de carga, stress e smoke em APIs.
 
@@ -74,6 +76,11 @@ Ao final de cada execução, um relatório HTML detalhado será gerado automatic
 
 - [Stress Test Report](reports/exemplo-stress-test.html)
 - <img width="454" alt="image" src="https://github.com/user-attachments/assets/9b9e91dc-dbe2-416b-a69c-c100450c0753" />
+
+### Ver no navegador (GitHub Pages)
+- Smoke: https://rfslusarz.github.io/teste-performance-k6/reports/exemplo-smoke-test.html
+- Load: https://rfslusarz.github.io/teste-performance-k6/reports/exemplo-load-test.html
+- Stress: https://rfslusarz.github.io/teste-performance-k6/reports/exemplo-stress-test.html
 
 
 Exemplo de saída: `reports/load-test_2023-10-27-15-30-00.html`

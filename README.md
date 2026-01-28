@@ -1,4 +1,4 @@
-# k6 Performance Testing Portfolio
+# k6 Performance Testing API
 
 ![k6](https://img.shields.io/badge/k6-Performance-purple?style=flat-square&logo=k6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)

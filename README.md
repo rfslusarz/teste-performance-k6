@@ -67,13 +67,13 @@ Ao final de cada execução, um relatório HTML detalhado será gerado automatic
 ## Relatórios de Exemplo
 
 - [Smoke Test Report](reports/exemplo-smoke-test.html)
-- <img width="1170" height="963" alt="image" src="https://github.com/user-attachments/assets/8977c8bf-22b6-4718-8a93-6cb0816e460e" />
+- <img width="567" height="467" alt="image" src="https://github.com/user-attachments/assets/8977c8bf-22b6-4718-8a93-6cb0816e460e" />
 
 - [Load Test Report](reports/exemplo-load-test.html)
-- <img width="1167" height="970" alt="image" src="https://github.com/user-attachments/assets/69a309b8-1351-4ac9-a48f-62acc2bb8cfe" />
+- <img width="567" height="471" alt="image" src="https://github.com/user-attachments/assets/69a309b8-1351-4ac9-a48f-62acc2bb8cfe" />
 
 - [Stress Test Report](reports/exemplo-stress-test.html)
-- <img width="1171" height="968" alt="image" src="https://github.com/user-attachments/assets/9b9e91dc-dbe2-416b-a69c-c100450c0753" />
+- <img width="567" height="468" alt="image" src="https://github.com/user-attachments/assets/9b9e91dc-dbe2-416b-a69c-c100450c0753" />
 
 
 Exemplo de saída: `reports/load-test_2023-10-27-15-30-00.html`
